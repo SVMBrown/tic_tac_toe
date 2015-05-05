@@ -1,0 +1,13 @@
+td {
+  width: 2em;
+  height: 2em;
+  font-size: 5em;
+  border: 1px solid black;
+  text-align: center;
+}
+
+
+.log {
+  display: inline-block;
+  float: left;
+}
